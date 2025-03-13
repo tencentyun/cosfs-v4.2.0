@@ -14,8 +14,8 @@ make
 2、配置文件cos_config.json(主要是cosfs依赖的COS SDK使用)
 参数说明:
 "AppID":1251668577,
-"SecretID":"AKIDWtTCBYjM5OwLB9CAwA1Qb2ThTSUjfGFO",
-"SecretKey":"FZjRSu0mJ9YJijVXXY57MAdCl4uylaA7",
+"SecretID":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"SecretKey":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
 "Region":"sh",                    //所属COS区域，上传下载操作的URL均与该参数有关
 "SignExpiredTime":360,            //签名超时时间，单位：秒
 "CurlConnectTimeoutInms":10000,   //CURL连接超时时间，单位：毫秒
